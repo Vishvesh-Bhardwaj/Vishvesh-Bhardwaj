@@ -1,12 +1,9 @@
-[![MasterHead]([[https://1.bp.blogspot.com/-7A4WynwLsM...](https://as2.ftcdn.net/v2/jpg/03/73/81/05/1000_F_373810585_TiCkmXfiV0sBB6RhlcR2RbJOcucsipf2.jpg))](https://as2.ftcdn.net/v2/jpg/03/73/81/05/1000_F_373810585_TiCkmXfiV0sBB6RhlcR2RbJOcucsipf2.jpg)]
+![logo](https://github.com/Vishvesh-Bhardwaj/Vishvesh-Bhardwaj/blob/main/Vishvesh%20Bhardwaj%20-%20CSE%20Banner.png)
 <h1 align="center">Hi 👋, I'm VISHVESH BHARDWAJ</h1>
 <h3 align="center">I am passionate about programming and design.</h3>
 <img align="right" alt="Coding" width="400" src="https://img.etimg.com/thumb/height-450,width-600,imgsize-638053,msid-84146056/.jpg">
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishvesh-bhardwaj&label=Profile%20views&color=0e75b6&style=flat" alt="vishvesh-bhardwaj" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishvesh-bhardwaj" alt="vishvesh-bhardwaj" /></a> </p>
 
 - 🌱 I’m currently learning **Artificial Intelligence and Machine Learning.**
 
